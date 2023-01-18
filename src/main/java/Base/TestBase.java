@@ -19,6 +19,7 @@ public class TestBase {
 	driver.manage().deleteAllCookies();
 	driver.get(ReadData.readPropertyFile("url"));
 //	driver.get("https://www.saucedemo.com/");
+    //i alreday push the code to git repo
 }
 
 
